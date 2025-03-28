@@ -95,5 +95,5 @@ Eagle Defense Systems LLC
 
 ## 🌐 Connect
 - LinkedIn: [www.linkedin.com/in/securedbyjc]  
-- GitHub: [Your GitHub URL]  
+- GitHub: [https://github.com/securedbyjc]  
 - Website: [https://securedbyjc.github.io/index.html]
